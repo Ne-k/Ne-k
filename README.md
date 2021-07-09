@@ -4,7 +4,7 @@
 
 ## Some things about me: 
 
-> I am a complete computer geek and anime weeb, my favorite anime (so far) has got to be [kimetsu no yaiba](https://kitsu.io/anime/kimetsu-no-yaiba) and [Toradora](https://kitsu.io/anime/toradora). I have a bot by the name of [ToD (Truth or Dare)](https://top.gg/bot/752306970467237970) which as I mentioned, has over 1k servers. Another bot I'm also working on with [Craftzman7](https://github.com/Craftzman7), is [Maru](https://top.gg/bot/820526612713177108) which is a somewhat moderation bot and anime bot. 
+> Hey there, I'm Nek, the developer for [ToD](https://top.gg/bot/752306970467237970). For starters, I'm a Vietnamese asian and a complete computer nerd and idiot, I spend most of my time working on ToD and patching bugs, but I am also an anime weeb, you can view my anime list [here](https://myanimelist.net/animelist/NekWasTaken)
 
 ![gif goes brrr](https://user-images.githubusercontent.com/68248147/115271383-24829700-a0f2-11eb-90cd-4a73f3fe5544.gif)
 
