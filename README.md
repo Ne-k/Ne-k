@@ -10,7 +10,7 @@
 
 # Stats:
 
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bachtungdiep_315&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) ![Nek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne-k&icons=true&theme=radical&count_private=true&hide_border=true)
+> ![Nek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne-k&icons=true&theme=radical&count_private=true&hide_border=true) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bachtungdiep_315&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
 
 
 
