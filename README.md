@@ -11,7 +11,10 @@
 # Stats:
 
 > ![Nek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne-k&icons=true&theme=radical&count_private=true&hide_border=true)
+
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-k&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bachtungdiep_315&cover_image=true&theme=novatorem&bar_color=ff94bf&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bachtungdiep_315&redirect=true)
 
 
 
