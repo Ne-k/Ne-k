@@ -1,6 +1,6 @@
 # Welcome to my profile, 
 
-> I mainly code in JS but I'm starting to use Python, TS and more. I am **the worst** bot developer there is but manage to have a [bot](https://tod.nek.wtf) that is over 3k servers
+> I am the idiot developer that breaks everything.
 
 ## Some things about me: 
 
