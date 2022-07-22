@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Ne-k)
+
 # Welcome to my profile, 
 
 > I am the idiot developer that breaks everything.
