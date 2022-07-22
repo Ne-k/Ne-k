@@ -4,7 +4,7 @@
 
 ## Some things about me: 
 
-> Hey there, I'm Nek, the developer for [ToD](https://tod.nek.wtf). For starters, I'm a Vietnamese asian and a complete computer nerd and idiot, I spend most of my time working on ToD and patching bugs, but I am also an anime weeb, you can view my anime list [here](https://myanimelist.net/animelist/Ne-k).
+> Hey there, I'm Nek. For starters, I'm a Vietnamese asian and a complete computer nerd and idiot, I spend most of my time working on ToD and patching bugs, but I am also an anime weeb, you can view my anime list [here](https://myanimelist.net/animelist/Ne-k).
 
 
 > ![Nek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne-k&icons=true&theme=radical&count_private=true&hide_border=true)
