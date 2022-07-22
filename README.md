@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Ne-k)
+![](https://komarev.com/ghpvc/?username=Ne-k&color=ff69b4)
 
 # Welcome to my profile, 
 
