@@ -16,4 +16,4 @@
 > [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mewz8iujhbqn1rwndb37q7tda&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mewz8iujhbqn1rwndb37q7tda&redirect=true)
 
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H74ID0Y)
