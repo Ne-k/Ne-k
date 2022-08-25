@@ -2,7 +2,7 @@
 
 # Welcome to my profile, 
 
-> I am the idiot developer that breaks everything.
+> I'm a backend developer who's been designing and coding successful projects for more than 3 years, and I somewhat despise working on web development
 
 ## Some things about me: 
 
