@@ -6,8 +6,7 @@
 
 ## Some things about me: 
 
-> Hey there, I'm Nek. For starters, I'm a Vietnamese asian and a complete computer nerd and idiot, I spend most of my time on the computer making more projects than I can maintain, but I am also an anime weeb, you can view my anime list [here](https://myanimelist.net/animelist/Ne-k).
-
+> Hey there, I'm Nek. For starters, I'm a Vietnamese asian and a complete computer nerd and idiot, I spend most of my time on the computer making more projects than I can maintain.
 > [![trophy](https://github-profile-trophy.vercel.app/?username=Ne-k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 > ![Nek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne-k&icons=true&theme=radical&count_private=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-k&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
